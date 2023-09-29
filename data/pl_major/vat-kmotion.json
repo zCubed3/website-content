@@ -1,0 +1,9 @@
+{
+  "name": "VAT.kMotion",
+  "name_is_link": "true",
+  "link": "https://www.github.com/VirtualAfterthoughts/VAT.kMotion",
+  "date": "December 2022",
+  "lang": "C# / ShaderLab",
+  "state": "Work in Progress",
+  "description": "A fork of Unity's URP. Adding many thematic changes to better suit the style of VAT games"
+}

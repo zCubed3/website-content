@@ -1,0 +1,9 @@
+{
+  "name": "rt-everywhere",
+  "name_is_link": "true",
+  "link": "https://www.github.com/zCubed3/rt-everywhere",
+  "date": "July 2023",
+  "lang": "C99",
+  "state": "Complete",
+  "description": "A small hobby project to port a toy raytracer to as many platforms as possible!"
+}

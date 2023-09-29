@@ -1,0 +1,7 @@
+{
+  "get_base": "/website-content/data/pl_major/",
+  "schemas": [
+    "rt-everywhere.json",
+    "vat-kmotion.json"
+  ]
+}

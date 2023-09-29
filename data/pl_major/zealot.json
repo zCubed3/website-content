@@ -1,0 +1,9 @@
+{
+  "name": "Zealot",
+  "name_is_link": "true",
+  "link": "https://www.github.com/zCubed3/zealot-q2",
+  "date": "September 2023",
+  "lang": "C99 / C++17",
+  "state": "Work in Progress",
+  "description": "A modern fork of Quake 2's original source release. Meant to upgrade and modernize the old engine (for personal usage).<br/><br/>(This project was started after Unity's attempt at self-sabotage and destroying developer trust)"
+}
